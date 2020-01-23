@@ -1,0 +1,141 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  list-style: none;
+}
+.body {
+  margin: 0;
+  font-family: "Hiragino Kku Gothic ProN"
+}
+a {
+  text-decoration: none;
+}
+header {
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 60px;
+  color: white;
+  width: 100%;
+}
+.header-main {
+  float:left;
+  font-size: 40px;
+}
+.header-list li {
+  float:left;
+  padding: 20px 60px;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto; 
+}
+.top-wrapper {
+  background-image: url(https://i.ytimg.com/vi/XxDiZNz4sEY/maxresdefault.jpg);
+  background-size: cover;
+  background-position: center;
+  color: rgb(205, 50, 50);
+  padding-top: 300px;
+  padding-bottom: 300px;
+  text-align: center;
+}
+.top-wrapper h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+.top-wrapper h2 {
+  padding-bottom: 20px;
+}
+.btn {
+  padding: 10px 15px;
+  color: white;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+.twitter {
+  background-color: #55acee;
+}
+.btn:hover {
+  opacity: 1;
+}
+.fa {
+  margin-right: 5px;
+}
+.contents {
+  padding-top: 60px;
+}
+.drummer-list h2 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+.drummer-list img {
+  padding-top: 20px;
+  position: center;
+  float: left;
+  width: 35%;
+  height: 20%;
+  margin-right: 20px
+}
+.drummer-list h3 {
+  padding: 20px ;
+  letter-spacing: 2px;
+  line-height: 50px;
+}
+.drummer-list2 h2 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+.drummer-list2 img {
+  padding-top: 20px;
+  position: center;
+  float: left;
+  width: 35%;
+  height: 20%;
+  margin-right: 20px;
+}
+.drummer-list2 h3 {
+  padding: 20px;
+  letter-spacing: 2px;
+  line-height: 50px;
+}
+.drummer-list3 h2 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+.drummer-list3 h3 {
+  padding: 20px;
+  letter-spacing: 2px;
+  line-height: 50px;
+}
+.drummer-list3 img {
+  padding-top: 20px;
+  position: center;
+  float: left;
+  width: 25%;
+  margin-right: 20px;
+}
+.contact-form {
+  padding-top: 70px;
+  text-align: center;
+}
+.contact-form h3 {
+  font-size: 25px;
+  border-bottom: 1px solid gray;
+}
+input,textarea {
+  width: 400px;
+  margin: 10px 0 30px;
+  padding: 20px;
+  font-size: 18px;
+}
+.contact-submit {
+  background-color: gray;
+}
+.last {
+  padding-top: 10px;
+  text-align: center;
+}
+.last h3 {
+  font-size: 30px;
+}
