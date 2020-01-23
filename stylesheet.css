@@ -3,8 +3,7 @@
   padding: 0px;
 }
 body {
-  width: 100%;
-  margin: 0 auto;
+  min-width: 1024px;
 }
 li {
   list-style: none;
